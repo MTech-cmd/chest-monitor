@@ -1,8 +1,6 @@
 # Chest Monitor
 A simple script that takes what's in your chest and displays it onto an adjacent monitor
 
-# TOC
-
 # Installation
 Run the following command in your terminal
 ```shell
