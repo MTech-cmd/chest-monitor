@@ -1,1 +1,1 @@
-`wget run https://raw.githubusercontent.com/<username>/<repository>/main/install.lua`
+`wget run https://raw.githubusercontent.com/MTech-cmd/chest-monitor/main/install.lua`

@@ -1,5 +1,5 @@
 -- install.lua
-local chestMonitorUrl = "https://raw.githubusercontent.com/<username>/<repository>/main/chest_monitor.lua"
+local chestMonitorUrl = "https://raw.githubusercontent.com/MTech-cmd/chest-monitor/main/chest_monitor.lua"
 
 -- Download the chest_monitor.lua script
 print("Downloading chest_monitor.lua...")
