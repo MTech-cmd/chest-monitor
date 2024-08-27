@@ -49,6 +49,10 @@ end
 while true do
     local monitor = peripheral.find("monitor")
     local chest = peripheral.find("minecraft:chest")
+    if not monitor or not chest then
+        print("Monitor or chest not found. Make sure they are connected.")
+        return
+    end
 
     print_inventory_on_monitor(chest, monitor)
 
